@@ -1,0 +1,30 @@
+{
+    "contactInfo": {
+        "personName": {
+            "firstName": "Hash&Find",
+            "lastName": "Hash&Find",
+            "fullName": "Hash&Find"
+        },
+        "address": {
+            "postalCode": "Required"
+        },
+        "email": "Hash&Find"
+    },
+    "employmentHistoryList": [
+        {
+            "employerOrgName": "Required",
+            "title": "Copy",
+            "startDate": "Required",
+            "endDate": "Required"
+        }
+    ],
+    "educationHistoryList": [
+        {
+            "degreeType": "Required"
+        }
+    ],
+    "experienceSummary": {
+        "monthsOfWorkExperience": "Required"
+    },
+    "resumeTextMD5": "Required"
+}

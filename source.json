@@ -1,0 +1,139 @@
+{
+    "contactInfo": {
+        "personName": {
+            "firstName": "Jane",
+            "lastName": "Doe",
+            "fullName": "Jane Doe"
+        },
+        "address": {
+            "countryCode": "US",
+            "postalCode": "75134",
+            "region": "TX",
+            "municipality": "Lancaster",
+            "malingAddress": null
+        },
+        "email": "jane.doe@mail.example.com"
+    },
+    "employmentHistoryList": [
+        {
+            "employerOrgName": "HYUNDAI MOBIS",
+            "title": "Receiving Clerk",
+            "description": "Receiving Clerk HYUNDAI MOBIS - Lancaster, TX June 2018 to March 2019 Picker/Packer Warehouse shipping/receiving experience Timely, accurate data entry skills Inventory control experience P RF Scanner Matching the labels with the orders Responsible for all inventory cycle counts, physical inventory programs. Counts and reconciles part numbers and locations, compile, verify and reports stats info, ensures compliance with inventory processes and procedures.",
+            "startDate": "2018-06-01",
+            "endDate": "2019-03-01",
+            "sovPositionId": "POS-1",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Lancaster"
+            }
+        },
+        {
+            "employerOrgName": "City Of Lancaster",
+            "title": "Recreation Attendant/Part Time",
+            "description": "Recreation Attendant/Part Time City Of Lancaster, TX - Lancaster, TX February 2018 to June 2018 Customer Service Data Entry Placing calls and answering calls giving out information and handling payments. Booking Events",
+            "startDate": "2018-02-01",
+            "endDate": "2018-06-01",
+            "sovPositionId": "POS-2",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Lancaster"
+            }
+        },
+        {
+            "employerOrgName": "Allied Universal",
+            "title": "Security Officer",
+            "description": "Security Officer Allied Universal - Cedar Hill, TX February 2017 to April 2018 Dispatch Motor Vehicle Control Store Walk-Through Guest Services",
+            "startDate": "2017-02-01",
+            "endDate": "2018-04-01",
+            "sovPositionId": "POS-3",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Cedar Hill"
+            }
+        },
+        {
+            "employerOrgName": "Parkland Health & Hospital System",
+            "title": "Customer care",
+            "description": "EVS Tech Parkland Health & Hospital System - Dallas, TX February 2015 to February 2018 Customer care Housekeeping cleaning patients rooms during there stay and after",
+            "startDate": "2015-02-01",
+            "endDate": "2018-02-01",
+            "sovPositionId": "POS-4",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Dallas"
+            }
+        },
+        {
+            "employerOrgName": "Travel Center Inc",
+            "title": "Cashier",
+            "description": "Cashier Travel Center Inc - Dallas, TX August 2015 to November 2016 Cashier Customer service Cook",
+            "startDate": "2015-08-01",
+            "endDate": "2016-11-01",
+            "sovPositionId": "POS-5",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Dallas"
+            }
+        },
+        {
+            "employerOrgName": "Cintas Warehouse",
+            "title": "Temporary Associate",
+            "description": "Temporary Associate Cintas Warehouse - DeSoto, TX September 2014 to August 2015 Packing Picking Bin Audits",
+            "startDate": "2014-09-01",
+            "endDate": "2015-08-01",
+            "sovPositionId": "POS-6",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "DeSoto"
+            }
+        },
+        {
+            "employerOrgName": "Wal-Mart",
+            "title": "IMS Associate",
+            "description": "IMS Associate Wal-Mart - Dallas, TX August 2013 to September 2014 Picking Bining Bin Audits Customer Service",
+            "startDate": "2013-08-01",
+            "endDate": "2014-09-01",
+            "sovPositionId": "POS-7",
+            "positionLocation": {
+                "countryCode": "US",
+                "region": "TX",
+                "municipality": "Dallas"
+            }
+        }
+    ],
+    "educationHistoryList": [
+        {
+            "schoolType": "UNSPECIFIED",
+            "degreeType": "high school or equivalent",
+            "degreeName": "High School Diploma",
+            "majorName": "Lancaster",
+            "sovPositionId": "DEG-1"
+        }
+    ],
+    "languages": [
+        {
+            "languageCode": "en",
+            "read": true,
+            "write": true,
+            "speak": true,
+            "comments": "[RESUME_LANGUAGE]"
+        }
+    ],
+    "experienceSummary": {
+        "description": "Jane Doe's experience appears to be concentrated in SKL-10353, with exposure to SKL-14095. Jane Doe has 6 years of work experience, with no management experience.",
+        "monthsOfWorkExperience": 68,
+        "yearsOfWorkExperience": 6,
+        "monthsOfManagementExperience": 0,
+        "yearsOfManagementExperience": 0,
+        "highestManagementScore": 0.0,
+        "executiveType": "none"
+    },
+    "resumeText": "Jane Doe Lancaster, TX 75134 jane.doe@mail.example.com 2143256044 Authorized to work in the US for any employer Work Experience Receiving Clerk HYUNDAI MOBIS - Lancaster, TX June 2018 to March 2019 Picker/Packer Warehouse shipping/receiving experience Timely, accurate data entry skills Inventory control experience P RF Scanner Matching the labels with the orders Responsible for all inventory cycle counts, physical inventory programs. Counts and reconciles part numbers and locations, compile, verify and reports stats info, ensures compliance with inventory processes and procedures. Recreation Attendant/Part Time City Of Lancaster, TX - Lancaster, TX February 2018 to June 2018 Customer Service Data Entry Placing calls and answering calls giving out information and handling payments. Booking Events Security Officer Allied Universal - Cedar Hill, TX February 2017 to April 2018 Dispatch Motor Vehicle Control Store Walk-Through Guest Services EVS Tech Parkland Health & Hospital System - Dallas, TX February 2015 to February 2018 Customer care Housekeeping cleaning patients rooms during there stay and after Cashier Travel Center Inc - Dallas, TX August 2015 to November 2016 Cashier Customer service Cook Temporary Associate Cintas Warehouse - DeSoto, TX September 2014 to August 2015 Packing Picking Bin Audits IMS Associate Wal-Mart - Dallas, TX August 2013 to September 2014 Picking Bining Bin Audits Customer Service Skills Used Electric Pallet Jack Walkie Stacker Education High School Diploma - Lancaster, TX Skills All Microsoft Office (5 years), Cherry Picker (2 years), Pallet Jack (2 years), Electric Pallet Jack (1 year), Cash Handling (3 years), RF Scanner (3 years), Picker Packer, Picking Packing, Warehouse Associate, BOX, General Labor, Receiving Clerk, Receivables, Shipping Receiving, Accounts Receivable, Recieving Certifications/Licenses Private Security July 2017 to July 2019 Security Licenses Additional Information 2 Years Experience in a warehouse 3 years Experience of customer service Typing Speed 30 Wpm",
+    "resumeTextMD5": "F10101C877A1C6A2202A2C8001B1F204"
+}
